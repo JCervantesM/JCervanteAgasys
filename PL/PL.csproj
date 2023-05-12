@@ -47,8 +47,10 @@
     <Compile Include="Edades.cs" />
     <Compile Include="Empleado.cs" />
     <Compile Include="Factorial.cs" />
+    <Compile Include="Palabra Mas Larga.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sopa De Letras.cs" />
     <Compile Include="Votos.cs" />
   </ItemGroup>
   <ItemGroup>

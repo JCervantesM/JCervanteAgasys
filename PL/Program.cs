@@ -14,7 +14,9 @@ namespace PL
             //PL.Edades.Edad();
             //PL.Votos.Voto();
             //PL.Factorial.Factoria();
-            PL.Cambio_de_Letras.Posicion(palabra);
+            //PL.Cambio_de_Letras.Posicion(palabra);
+            PL.Sopa_De_Letras.Sopa(palabra);
+            //PL.Palabra_Mas_Larga.Large(palabra);
 
             Console.ReadKey();
 
